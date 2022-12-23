@@ -12,7 +12,7 @@ from openstack.exceptions import MissingRequiredArgument
 from openstack import version as openstack_version
 import itertools
 
-DEFAULT_USER_AGENT = "huawei-cloud-sdk-python/%s" % openstack_version.__version__
+DEFAULT_USER_AGENT = "cloud-sdk-python/%s" % openstack_version.__version__
 API_REQUEST_HEADER = "openstack-api-version"
 
 _logger = logging.getLogger(__name__)
