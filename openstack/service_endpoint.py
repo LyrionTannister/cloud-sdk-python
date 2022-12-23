@@ -92,9 +92,6 @@ endpoint = {
   "VPCV2.0": {
        "public": "https://vpc.%(region)s.%(domain)s/v2.0/%(project_id)s"
   },
-  "DEH": {
-       "public": "https://deh.%(region)s.%(domain)s/v1.0/%(project_id)s"
-  },
   "FGSV2": {
        "public": "https://functiongraph.%(region)s.%(domain)s/v2/%(project_id)s"
   },
