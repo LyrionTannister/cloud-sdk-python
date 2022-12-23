@@ -1,10 +1,9 @@
 Metadata-Version: 1.1
-Name: huaweicloud-sdk-python
+Name: cloud-sdk-python
 Version: 1.0.28
-Summary: An SDK for building applications to work with OpenStack
-Home-page: https://github.com/huaweicloud/huaweicloud-sdk-python
-Author: "HuaweiCloud SDK"
-Author-email: "hwcloudsdk@huawei.com"
+Summary: An SDK for building applications to work with Cloud
+Home-page: https://github.com/../cloud-sdk-python
+Author: "Cloud SDK"
 License: Apache LICENSE 2.0
 Description: Python SDK for Cloud
 
