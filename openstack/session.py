@@ -52,7 +52,7 @@ from openstack import version as openstack_version
 
 from six.moves.urllib import parse
 
-DEFAULT_USER_AGENT = "huawei-cloud-sdk-python/%s" % openstack_version.__version__
+DEFAULT_USER_AGENT = "cloud-sdk-python/%s" % openstack_version.__version__
 API_REQUEST_HEADER = "openstack-api-version"
 
 Version = namedtuple("Version", ["major", "minor"])
